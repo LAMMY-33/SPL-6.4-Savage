@@ -6,20 +6,17 @@ Pandaemonium 9-12 Savage
 # Pandaemonium-11-Savage
 # Pandaemonium-12.1-Savage
 
+◆4-アポ・ディアロゴス
 ```
 ~Lv2~{"Name":"◆4-アポ・ディアロゴス","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"DCond":5,"ElementsL":[{"Name":"アポ-T","type":1,"offY":12.0,"radius":2.0,"color":4294901783,"overlayBGColor":0,"overlayTextColor":4294967295,"overlayText":"","refActorNPCNameID":12377,"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true,"Filled":true},{"Name":"アポ-H/DPS","type":1,"offY":5.0,"radius":2.0,"color":2986344192,"overlayBGColor":0,"overlayTextColor":4294901783,"overlayText":"《》","refActorNameIntl":{"Jp":"アテナ"},"includeRotation":true,"onlyVisible":true,"tether":true,"AdditionalRotation":3.1415927,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":5.5,"Match":"(12377>33534)","IsRegex":true}]}
 ```
 
-
-
-
-
-
-
+◆4-ペリ・ディアロゴス
 ```
 ~Lv2~{"Name":"◆4-ペリ・ディアロゴス","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"DCond":5,"ElementsL":[{"Name":"ペリ-T","type":1,"offY":5.0,"radius":2.0,"color":4294901783,"overlayBGColor":0,"overlayTextColor":4294967295,"overlayText":"","refActorNameIntl":{"Jp":"アテナ"},"includeRotation":true,"onlyVisible":true,"Filled":true},{"Name":"ペリ-H/DPS","type":1,"offY":12.0,"radius":2.0,"color":2986344192,"overlayBGColor":0,"overlayTextColor":4294901783,"overlayText":"《》","refActorNameIntl":{"Jp":"アテナ"},"includeRotation":true,"onlyVisible":true,"tether":true,"AdditionalRotation":3.1415927,"Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":5.5,"Match":"(12377>33535)","IsRegex":true}]}
 ```
 
+◆4-塔作者確認
 ```
 ~Lv2~{"Name":"◆4-塔作者確認","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"ElementsL":[{"Name":"白塔作者-柱","type":3,"refZ":3.0,"offZ":1.26,"radius":0.0,"color":4294967295,"thicc":11.3,"refActorRequireBuff":true,"refActorBuffId":[3579],"refActorUseBuffTime":true,"refActorBuffTimeMax":8.0,"refActorComparisonType":1,"includeRotation":true,"onlyVisible":true},{"Name":"黒塔作者-柱","type":3,"refZ":3.0,"offZ":1.26,"radius":0.0,"color":4278190080,"thicc":11.3,"refActorRequireBuff":true,"refActorBuffId":[3580],"refActorUseBuffTime":true,"refActorBuffTimeMax":8.0,"refActorComparisonType":1,"includeRotation":true,"onlyVisible":true},{"Name":"白塔作者-円","type":1,"radius":0.7,"color":4294967295,"thicc":7.0,"refActorRequireBuff":true,"refActorBuffId":[3579],"refActorUseBuffTime":true,"refActorBuffTimeMax":8.0,"refActorComparisonType":1,"includeRotation":true,"onlyVisible":true},{"Name":"黒塔作者-円","type":1,"radius":0.7,"color":4278190080,"thicc":7.0,"refActorRequireBuff":true,"refActorBuffId":[3580],"refActorUseBuffTime":true,"refActorBuffTimeMax":8.0,"refActorComparisonType":1,"includeRotation":true,"onlyVisible":true}]}
 ```
