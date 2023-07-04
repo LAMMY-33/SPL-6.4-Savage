@@ -36,13 +36,50 @@ Pandaemonium 9-12 Savage
 ~Lv2~{"Name":"◆4-サイコロ-表示","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"ElementsL":[{"Name":"","type":1,"radius":0.0,"color":3371299322,"overlayBGColor":4294905344,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayFScale":2.0,"thicc":0.0,"overlayText":"","refActorComparisonType":7,"onlyVisible":true,"refActorVFXPath":"vfx/lockon/eff/sph_lockon2_num01_s8p.avfx","refActorVFXMax":30000},{"Name":"","type":1,"radius":0.0,"color":3371299322,"overlayBGColor":4286251263,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayFScale":2.0,"thicc":0.0,"overlayText":"","refActorComparisonType":7,"onlyVisible":true,"refActorVFXPath":"vfx/lockon/eff/sph_lockon2_num02_s8p.avfx","refActorVFXMax":30000},{"Name":"","type":1,"radius":0.56,"color":3371299322,"overlayBGColor":4294905344,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayFScale":2.0,"thicc":0.0,"overlayText":"","refActorComparisonType":7,"onlyVisible":true,"refActorVFXPath":"vfx/lockon/eff/sph_lockon2_num03_s8p.avfx","refActorVFXMax":30000},{"Name":"","type":1,"radius":0.56,"color":3371299322,"overlayBGColor":4286251263,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayFScale":2.0,"thicc":0.0,"overlayText":"","refActorComparisonType":7,"onlyVisible":true,"refActorVFXPath":"vfx/lockon/eff/sph_lockon2_num04_s8p.avfx","refActorVFXMax":30000},{"Name":"","type":1,"radius":0.56,"color":3371299322,"overlayBGColor":4294905344,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayFScale":2.0,"thicc":0.0,"overlayText":"","refActorComparisonType":7,"onlyVisible":true,"refActorVFXPath":"vfx/lockon/eff/sph_lockon2_num05_s8t.avfx","refActorVFXMax":30000},{"Name":"","type":1,"radius":0.56,"color":3371299322,"overlayBGColor":4286251263,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayFScale":2.0,"thicc":0.0,"overlayText":"","refActorComparisonType":7,"onlyVisible":true,"refActorVFXPath":"vfx/lockon/eff/sph_lockon2_num06_s8t.avfx","refActorVFXMax":30000},{"Name":"","type":1,"radius":0.56,"color":3371299322,"overlayBGColor":4294905344,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayFScale":2.0,"thicc":0.0,"overlayText":"","refActorComparisonType":7,"onlyVisible":true,"refActorVFXPath":"vfx/lockon/eff/sph_lockon2_num07_s8t.avfx","refActorVFXMax":30000},{"Name":"","type":1,"radius":0.56,"color":3371299322,"overlayBGColor":4286251263,"overlayTextColor":4294967295,"overlayVOffset":2.0,"overlayFScale":2.0,"thicc":0.0,"overlayText":"","refActorComparisonType":7,"onlyVisible":true,"refActorVFXPath":"vfx/lockon/eff/sph_lockon2_num08_s8t.avfx","refActorVFXMax":30000}]}
 ```
 
+# Pandaemonium-12.2-Savage
+
+◆4-PSペア-〇
+```
+~Lv2~{"Name":"◆4-PSペア-","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"DCond":5,"ElementsL":[{"Name":"","type":1,"radius":0.0,"color":4278190259,"overlayBGColor":0,"overlayTextColor":4278190259,"overlayVOffset":1.5,"overlayFScale":3.0,"thicc":4.0,"overlayText":"","refActorComparisonType":7,"tether":true,"refActorVFXPath":"vfx/lockon/eff/lockon_en_01v.avfx","refActorVFXMax":10000}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"VFX vfx/lockon/eff/lockon_en_01v.avfx spawned on me npc"}]}
+```
+◆4-PSペア-X
+```
+~Lv2~{"Name":"◆4-PSペア-","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"DCond":5,"ElementsL":[{"Name":"","type":1,"radius":0.0,"color":4294913280,"overlayBGColor":0,"overlayTextColor":4294913280,"overlayVOffset":1.5,"overlayFScale":3.0,"thicc":4.0,"overlayText":"","refActorComparisonType":7,"tether":true,"refActorVFXPath":"vfx/lockon/eff/lockon_batu_01v.avfx","refActorVFXMax":10000}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"VFX vfx/lockon/eff/lockon_batu_01v.avfx spawned on me npc"}]}
+```
+◆4-PSペア-△
+```
+~Lv2~{"Name":"◆4-PSペア-","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"DCond":5,"ElementsL":[{"Name":"","type":1,"radius":0.0,"color":4278236428,"overlayBGColor":0,"overlayTextColor":4278236428,"overlayVOffset":1.5,"overlayFScale":3.0,"thicc":4.0,"overlayText":"","refActorComparisonType":7,"tether":true,"refActorVFXPath":"vfx/lockon/eff/lockon_sitasankaku_01v.avfx","refActorVFXMax":10000}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":25.0,"Match":"VFX vfx/lockon/eff/lockon_sitasankaku_01v.avfx spawned on me npc"}]}
+```
+◆4-PSペア-□
+```
+~Lv2~{"Name":"◆4-PSペア-","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"DCond":5,"ElementsL":[{"Name":"","type":1,"radius":0.0,"color":4290904258,"overlayBGColor":0,"overlayTextColor":4290904258,"overlayVOffset":1.5,"overlayFScale":3.0,"thicc":4.0,"overlayText":"","refActorComparisonType":7,"tether":true,"refActorVFXPath":"vfx/lockon/eff/lockon_sikaku_01v.avfx","refActorVFXMax":10000}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"VFX vfx/lockon/eff/lockon_sikaku_01v.avfx spawned on me npc"}]}
+```
+◆4-イデア-PS持ち場-〇
+```
+~Lv2~{"Name":"◆4-イデア-PS持ち場-","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"DCond":5,"ElementsL":[{"Name":"","type":2,"refX":88.0,"refY":80.0,"offX":88.0,"offY":104.0,"offZ":1.9073486E-06,"radius":4.0,"color":0,"thicc":0.0,"FillStep":4.0}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"VFX vfx/lockon/eff/lockon_en_01v.avfx spawned on me"}]}
+```
+◆4-イデア-PS持ち場-X
+```
+~Lv2~{"Name":"◆4-イデア-PS持ち場-","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"DCond":5,"ElementsL":[{"Name":"","type":2,"refX":96.0,"refY":80.0,"offX":96.0,"offY":104.0,"offZ":1.9073486E-06,"radius":4.0,"color":0,"thicc":0.0,"FillStep":4.0}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"VFX vfx/lockon/eff/lockon_batu_01v.avfx spawned on me"}]}
+```
+◆4-イデア-PS持ち場-△
+```
+~Lv2~{"Name":"◆4-イデア-PS持ち場-","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"DCond":5,"ElementsL":[{"Name":"","type":2,"refX":104.0,"refY":80.0,"offX":104.0,"offY":104.0,"offZ":1.9073486E-06,"radius":4.0,"color":0,"thicc":0.0,"FillStep":4.0}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"VFX vfx/lockon/eff/lockon_sitasankaku_01v.avfx spawned on me"}]}
+```
+◆4-イデア-PS持ち場-□
+```
+~Lv2~{"Name":"◆4-イデア-PS持ち場-","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"DCond":5,"ElementsL":[{"Name":"","type":2,"refX":112.0,"refY":80.0,"offX":112.0,"offY":104.0,"offZ":1.9073486E-06,"radius":4.0,"color":0,"thicc":0.0,"FillStep":4.0}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"VFX vfx/lockon/eff/lockon_sikaku_01v.avfx spawned on me"}]}
+```
+```
+
+```
+```
 
 ```
 
-```
-```
 
-```
+
+
 
 
 
