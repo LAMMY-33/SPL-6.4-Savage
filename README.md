@@ -77,18 +77,3 @@ Pandaemonium 9-12 Savage
 
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Pandaemonium-12.2-Savage
