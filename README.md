@@ -69,10 +69,21 @@
 ```
 ~Lv2~{"Name":"◆4-イデア-PS持ち場-","Group":"6.4-天獄編-零式","ZoneLockH":[1154],"DCond":5,"ElementsL":[{"Name":"","type":2,"refX":112.0,"refY":80.0,"offX":112.0,"offY":104.0,"offZ":1.9073486E-06,"radius":4.0,"color":0,"thicc":0.0,"FillStep":4.0}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"VFX vfx/lockon/eff/lockon_sikaku_01v.avfx spawned on me"}]}
 ```
+◆4-苦痛の鎖
+```
+~Lv2~{"Name":"◆4-苦痛の鎖","Group":"6.4-天獄編-零式","ElementsL":[{"Name":"","type":1,"color":255,"overlayBGColor":4294903808,"overlayVOffset":3.68,"overlayFScale":2.0,"overlayText":"","refActorNameIntl":{"Jp":"Lammy Westin"},"refActorRequireBuff":true,"refActorBuffId":[3587],"refActorBuffTimeMax":3.0,"refActorType":1,"includeRotation":true}]}
+```
 ```
 
 ```
 ```
 
 ```
+```
+
+```
+```
+
+```
+
 
